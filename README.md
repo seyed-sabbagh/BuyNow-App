@@ -1,4 +1,5 @@
-![GitHub Cards Preview][(https://github.com/seyed-sabbagh/BuyNow-App/blob/master/ART/cover.png)]
+![GitHub Cards Preview](https://github.com/seyed-sabbagh/BuyNow-App/blob/main/ART/cover.png?raw=true![image](https://user-images.githubusercontent.com/53969106/173034820-ff5a6071-b628-47b4-a16e-aa2f6431a2c0.png)
+)
 
 # 🔖BuyNow-App
 Buy Now is An e-commerce app. In this app I use Machine Learning Algorithm for users can search visually. Users upload or take a photo, and this Algorithm will search for a similar product.
